@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">maps power save</string>
+    <string name="tile_maps_power_saving">maps power save</string>
+    <string name="feat_maps_power_saving_title">maps power save mode</string>
+    <string name="feat_maps_power_saving_desc">Optimize Google Maps to consume less battery</string>
+    <string name="about_desc_maps_power_saving">Optimizes Google Maps to consume less battery while navigating.</string>
+    <string name="cat_system">System</string>
+    <string name="tile_active">Active</string>
+    <string name="tile_inactive">Inactive</string>
+</resources>
